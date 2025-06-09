@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod g --reference=hello school
+chown --reference=hello school
