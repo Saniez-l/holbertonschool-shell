@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R a+rwx /root
+chmod -R 755 /root/holbertonschool-shell/permissions
