@@ -1,2 +1,2 @@
 #!/bin/bash
-find .mindegree 1 -type d | wc -l
+find . mindegree 1 -type d | wc -l
