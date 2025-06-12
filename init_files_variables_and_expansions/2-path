@@ -1,2 +1,2 @@
 #!/bin/bash
-allias alias action="cd -"
+export PATH=$PATH
