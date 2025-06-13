@@ -1,2 +1,2 @@
 #!/bin/bash
-NUM=$(echo «$NUM » | bc)
+printf "%.2f\n" $NUM
